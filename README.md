@@ -7,17 +7,17 @@ To Develop a dynamic weekly dashboard tailored for credit card operations, furni
 
 
 Steps: 
-Import data from SQL database to PowerBi
-Data Processing & Dax Querys
+Import data from SQL database to PowerBi.
+Data Processing & Dax Querys.
 Design Dashboard and Summerise Insights.
 
 
 Project Insights:- Week 53 (31st Dec)
 
 WoW change: 
- Revenue increased by 28.8%, 
- Total Transaction Amt & Count increased by 35% & 3%
- Customer count increased by 28.3%
+ Revenue increased by 28.8%. 
+ Total Transaction Amt & Count increased by 35% & 3%.
+ Customer count increased by 28.3%.
 
 Overview YTD:
 • Overall revenue is 57M
