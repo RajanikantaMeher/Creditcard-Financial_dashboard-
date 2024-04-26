@@ -1,10 +1,16 @@
 # Creditcard-Financial_dashboard-
 Power BI Dashboard
+
+
 Project Objective:  To Develop a dynamic weekly dashboard tailored for credit card operations, furnishing stakeholders with up-to-the-minute analytics on pivotal performance indicators and trends. This empowers stakeholders to vigilantly oversee and dissect credit card operations with precision and efficacy.
+
+
 Steps: 
 •Import data from SQL database to PowerBi
 •Data Processing & Dax Querys
 •Design Dashboard and Summerise Insights.
+
+
 Project Insights:- Week 53 (31st Dec)
 WoW change: 
 • Revenue increased by 28.8%, 
