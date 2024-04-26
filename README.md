@@ -2,7 +2,8 @@
 Power BI Dashboard
 
 
-Project Objective:  To Develop a dynamic weekly dashboard tailored for credit card operations, furnishing stakeholders with up-to-the-minute analytics on pivotal performance indicators and trends. This empowers stakeholders to vigilantly oversee and dissect credit card operations with precision and efficacy.
+Project Objective:  
+To Develop a dynamic weekly dashboard tailored for credit card operations, furnishing stakeholders with up-to-the-minute analytics on pivotal performance indicators and trends. This empowers stakeholders to vigilantly oversee and dissect credit card operations with precision and efficacy.
 
 
 Steps: 
